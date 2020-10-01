@@ -22,3 +22,10 @@
 # Output: 2
 
 #Leetcode Problem: Majority Element 
+
+
+def majority_element():
+    """Given an array find the majority element."""
+
+print(majority_element([3,2,3])) #3
+print(majority_element([2,2,1,1,1,2,2])) #2
